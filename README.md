@@ -1,6 +1,6 @@
 <h1 align="center">
-  <img src="https://github.com/crazydevher/crazydevhero/blob/main/Earth.gif" width="24px" style="max-width:100%;">
-  𝐇𝐞𝐥𝐥𝐨, it's Nolan!
+  <img src="https://github.com/crazydevhero/crazydevhero/blob/main/Earth.gif" width="24px" style="max-width:100%;">
+  𝐇𝐞𝐥𝐥𝐨, it's **Crazy Dev Hero**!
   <img src="https://github.com/crazydevhero/crazydevhero/blob/main/Earth.gif" width="24px" style="max-width:100%;">
   
   <br /><img src="https://profile-counter.glitch.me/crazydevhero/count.svg" />
@@ -24,7 +24,7 @@
 </a>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 as a senior **Blockchain** 𝚊𝚗𝚍 **Full-stack** developer
-- 🌱 𝙸’𝚖 now working at [**Cryptochi**](https://www.linkedin.com/company/cryptochi) - a metaverse gaming company
+- 🌱 𝙸’𝚖 now working at [**MetaRents**](https://metarents.io/) - a metaverse renting platform
 - 🤔 I’m looking to collaborate on anything!
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://t.me/crazydevhero/) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 
