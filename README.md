@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/crazydevhero/crazydevhero/master/gifs/Hi.gif" width="30px"><h1>Welcome to onboard my github! <br/>
+<img src="https://raw.githubusercontent.com/crazydevhero/crazydevhero/main/gifs/Hi.gif" width="30px"><h1>Welcome to onboard my github! <br/>
 I'm a Blockchain & Full-stack Developer</h1>
 
 <p align="left">
