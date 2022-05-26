@@ -1,76 +1,101 @@
-<h1 align="center">
-  <img src="https://github.com/crazydevhero/crazydevhero/blob/main/Earth.gif" width="24px" style="max-width:100%;">
-  𝐇𝐞𝐥𝐥𝐨, it's **Crazy Dev Hero**!
-  <img src="https://github.com/crazydevhero/crazydevhero/blob/main/Earth.gif" width="24px" style="max-width:100%;">
-  
-  <br /><img src="https://profile-counter.glitch.me/crazydevhero/count.svg" />
-  <br />
-  <div align=center>
-  <img align=left width=420 src="https://github-readme-stats.vercel.app/api?username=crazydevhero&hide=prs&theme=onedark&layout=compact&hide_border=true&show_icons=true" />
-  <img align=right width=362 src="https://github-readme-streak-stats.herokuapp.com/?user=crazydevhero&theme=onedark" />
-  
-  [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/crazydevhero)
-  [![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=Telegram&logoColor=white)](https://t.me/crazydevhero)
-  [![Skype](https://img.shields.io/badge/-Skype-grey?style=flat&logo=Skype&logoColor=white)](live:.cid.7117ab74680529ef)
-  [![Linkedin](https://img.shields.io/badge/Portfolio-gray?style=flat&logo=appveyor)](https://crazy-dev-hero.netlify.app/)
-  </div>
+<img src="https://raw.githubusercontent.com/crazydevhero/crazydevhero/master/gifs/Hi.gif" width="30px"><h1>Welcome to onboard my github! <br/>
+I'm a Blockchain & Full-stack Developer</h1>
 
-</h1>
+<p align="left">
+Nice to meet you! 🤗 <br/>
+I'm very familiar with BlockChain | DApp | Smart Contract | NFT marketplace | Web3.js | MERN | MEAN As Full-stack developer
 
-<br/>
-<br/>
-<a target="_blank">
-  <img align="right" height="200" width="300" alt="GIF" src="https://github.com/crazydevhero/crazydevhero/blob/main/coder.gif">
-</a>
-
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 as a senior **Blockchain** 𝚊𝚗𝚍 **Full-stack** developer
-- 🌱 𝙸’𝚖 now working at [**MetaRents**](https://metarents.io/) - a metaverse renting platform
-- 🤔 I’m looking to collaborate on anything!
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://t.me/crazydevhero/) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
-
-
-<br/>
-
-#
-
-
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
-<br/>
-<p>
-  <code><img width="14%" height="80px" src="https://github.com/crazydevhero/crazydevhero/blob/main/solidity.svg"></code>
-  <code><img width="14%" height="80px" src="https://github.com/crazydevhero/crazydevhero/blob/main/rust.svg"></code>
-  <code><img width="14%" height="80px" src="https://github.com/crazydevhero/crazydevhero/blob/main/javascript.svg"></code>
-  <code><img width="14%" height="80px" src="https://github.com/crazydevhero/crazydevhero/blob/main/nodejs.svg"></code>
-  <code><img width="14%" height="80px" src="https://github.com/crazydevhero/crazydevhero/blob/main/python.svg"></code>
-  <code><img width="14%" height="80px" src="https://github.com/crazydevhero/crazydevhero/blob/main/c++.svg"></code>
-  <br />
-  <br />
-  <code><img width="15%" height="80px" src="https://github.com/crazydevhero/crazydevhero/blob/main/openzeppelin.svg"></code>
-  <code><img width="15%" height="80px" src="https://github.com/crazydevhero/crazydevhero/blob/main/react.svg"></code>
-  <code><img width="15%" height="80px" src="https://github.com/crazydevhero/crazydevhero/blob/main/vue.svg"></code>
-  <code><img width="15%" height="80px" src="https://github.com/crazydevhero/crazydevhero/blob/main/angular.svg"></code>
-  <code><img width="15%" height="80px" src="https://github.com/crazydevhero/crazydevhero/blob/main/bootstrap.svg"></code>
-  <code><img width="15%" height="80px" src="https://github.com/crazydevhero/crazydevhero/blob/main/jquery.svg"></code>
-  <br />
-  <br />
-  <code><img width="15%" height="80px" src="https://github.com/crazydevhero/crazydevhero/blob/main/hardhat.svg"></code>
-  <code><img width="15%" height="80px" src="https://github.com/crazydevhero/crazydevhero/blob/main/truffle.svg"></code>
-  <code><img width="15%" height="80px" src="https://github.com/crazydevhero/crazydevhero/blob/main/express.svg"></code>
-  <code><img width="15%" height="80px" src="https://github.com/crazydevhero/crazydevhero/blob/main/laravel.svg"></code>
-  <code><img width="15%" height="80px" src="https://github.com/crazydevhero/crazydevhero/blob/main/codeigniter.svg"></code>
-  <code><img width="15%" height="80px" src="https://github.com/crazydevhero/crazydevhero/blob/main/django.svg"></code>
-  <br />
-  <br />
-  <code><img width="15%" height="80px" src="https://github.com/crazydevhero/crazydevhero/blob/main/mysql.svg"></code>
-  <code><img width="15%" height="80px" src="https://github.com/crazydevhero/crazydevhero/blob/main/sqlite.svg"></code>
-  <code><img width="15%" height="80px" src="https://github.com/crazydevhero/crazydevhero/blob/main/mongodb.svg"></code>
-  <br />
-  <br />
-  <code><img width="15%" height="80px" src="https://github.com/crazydevhero/crazydevhero/blob/main/jest.svg"></code>
-  <code><img width="15%" height="80px" src="https://github.com/crazydevhero/crazydevhero/blob/main/mocha.svg"></code>
-  <code><img width="15%" height="80px" src="https://github.com/crazydevhero/crazydevhero/blob/main/chai.svg"></code>
-  <br />
-  <br />
-  <code><img width="15%" height="80px" src="https://github.com/crazydevhero/crazydevhero/blob/main/npm.svg"></code>
-  <code><img width="15%" height="80px" src="https://github.com/crazydevhero/crazydevhero/blob/main/yarn.svg"></code>
+@crazydevhero everywhere...
 </p>
+
+<h1 align="center">Languages</h1>
+
+<div>
+  <a href="https://github.com/crazydevhero">
+    <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=flat&logo=bitcoin&logoColor=white" />
+  </a>
+  <a href="https://github.com/crazydevhero">
+    <img alt="Solidity" src="https://github.com/crazydevhero/crazydevhero/raw/main/icons/solidity.png" />
+  </a>
+  <a href="https://github.com/crazydevhero">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
+  </a>
+  <a href="https://github.com/crazydevhero">
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" />
+  </a>
+  <a href="https://github.com/crazydevhero">
+    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  </a>
+  <a href="https://github.com/crazydevhero">
+    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
+  </a>
+  <a href="https://github.com/crazydevhero">
+    <img alt="React.js" src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white" />
+  </a>
+  <a href="https://github.com/crazydevhero">
+    <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+  </a>
+  <a href="https://github.com/crazydevhero">
+    <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+  </a>
+  <a href="https://github.com/crazydevhero">
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" />
+  </a>
+  <a href="https://github.com/crazydevhero">
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-80a50e?style=flat&logoColor=white" />
+  </a>
+  <a href="https://github.com/crazydevhero">
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  </a>
+  <a href="https://github.com/crazydevhero">
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+  </a>
+  <a href="https://github.com/crazydevhero">
+    <img alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white" />
+  </a>
+  <a href="https://github.com/crazydevhero">
+    <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
+  </a>
+  <a href="https://github.com/crazydevhero">  
+    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
+  </a>
+  <a href="https://github.com/crazydevhero">
+    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-0f69a9?style=flat&logo=mysql&logoColor=white" />
+  </a>
+  <a href="https://github.com/crazydevhero">
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />
+  </a>
+  <a href="https://github.com/crazydevhero">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+  </a>
+  <a href="https://github.com/crazydevhero">
+    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
+  </a>
+  <a href="https://github.com/crazydevhero">  
+    <img alt="Amazon" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  </a>
+  <a href="https://github.com/crazydevhero">  
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat&logo=docker&logoColor=white" />
+  </a>
+  <a href="https://github.com/crazydevhero">  
+    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  </a>
+  <a href="https://github.com/crazydevhero">  
+    <img alt="Gitlab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab" />
+  </a>
+  <a href="https://github.com/crazydevhero">  
+    <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" />
+  </a>
+  <a href="https://github.com/crazydevhero">  
+    <img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
+  </a>
+</div>
+
+<h1 align="center">My Github Status </h1>
+<p align="center">
+  <img alt="status" src="https://github-readme-stats.vercel.app/api?username=crazydevhero&show_icons=true&&custom_title=Current%20Status&title_color=FF0FFF&text_color=76d285&icon_color=cff389&theme=dark&count_private=true&hide=prs" align="center" />
+</p>
+
+<h1 align="center"></h1>
+ <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=crazydevhero&theme=dracula" /> 
+<h1 align="center"></h1>
