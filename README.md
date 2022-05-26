@@ -9,9 +9,10 @@ Plz contact me at @crazydevhero anywhere...
 </p>
 
 <div>
+
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/crazydevhero)
 [![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=Telegram&logoColor=white)](https://t.me/crazydevhero)
-[![Linkedin](https://img.shields.io/badge/Portfolio-gray?style=flat&logo=appveyor)](https://crazy-dev-hero.netlify.app/)
+[![Linkedin](https://img.shields.io/badge/Portfolio-gray?style=flat&logo=appveyor)(https://crazy-dev-hero.netlify.app/)
 </div>
 
 <h1 align="center">Tech stacks</h1>
