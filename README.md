@@ -15,6 +15,7 @@ Plz contact me at @crazydevhero anywhere...
 [![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=Telegram&logoColor=white)](https://t.me/crazydevhero)
 [![Linkedin](https://img.shields.io/badge/Portfolio-gray?style=flat&logo=appveyor)](https://crazy-dev-hero.netlify.app/)
 [![Discord](https://img.shields.io/badge/-Discord-white?style=flat&logo=Discord)](https://discord.com/users/CrazyDevHero#7119/)
+[![Skype](https://img.shields.io/badge/-Skype-grey?style=flat&logo=Skype&logoColor=white)](https://join.skype.com/invite/mxO32NNjcXNw)
 </div>
 
 <h1 align="center">Tech stacks</h1>
