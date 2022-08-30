@@ -28,7 +28,7 @@ Plz contact me at @crazydevhero anywhere...
     <img alt="Solidity" src="https://github.com/crazydevhero/crazydevhero/raw/main/icons/solidity.png" />
   </a>
   <a href="https://github.com/crazydevhero">
-    <img alt="Solidity" src="https://github.com/crazydevhero/crazydevhero/raw/main/icons/rust.png" />
+    <img alt="Rust" src="https://github.com/crazydevhero/crazydevhero/raw/main/icons/rust.png" width="78px" height="20px" />
   </a>
   <a href="https://github.com/crazydevhero">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
