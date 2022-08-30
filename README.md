@@ -21,14 +21,11 @@ Plz contact me at @crazydevhero anywhere...
 <h1 align="center">Tech stacks</h1>
 
 <div>
+  ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
+  ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+  ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
   <a href="https://github.com/crazydevhero">
-    <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=flat&logo=bitcoin&logoColor=white" />
-  </a>
-  <a href="https://github.com/crazydevhero">
-    <img alt="Solidity" src="https://github.com/crazydevhero/crazydevhero/raw/main/icons/solidity.png" />
-  </a>
-  <a href="https://github.com/crazydevhero">
-    <img alt="Rust" src="https://github.com/crazydevhero/crazydevhero/raw/main/icons/rust.png" width="78px" height="20px" />
+    <img alt="Rust" src="https://github.com/crazydevhero/crazydevhero/raw/main/icons/rust.png" height="20px" />
   </a>
   <a href="https://github.com/crazydevhero">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
