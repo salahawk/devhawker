@@ -18,24 +18,13 @@ Plz contact me at @crazydevhero anywhere...
 [![Skype](https://img.shields.io/badge/-Skype-grey?style=flat&logo=Skype&logoColor=white)](https://join.skype.com/invite/mxO32NNjcXNw)
 </div>
 
-<h1 align="center">Tech stacks</h1>
-
+<hr />
 <div>
-  ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
+
   ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
   ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-  <a href="https://github.com/crazydevhero">
-    <img alt="Rust" src="https://github.com/crazydevhero/crazydevhero/raw/main/icons/rust.png" height="20px" />
-  </a>
-  <a href="https://github.com/crazydevhero">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
-  </a>
-  <a href="https://github.com/crazydevhero">
-    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" />
-  </a>
-  <a href="https://github.com/crazydevhero">
-    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
-  </a>
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   <a href="https://github.com/crazydevhero">
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
   </a>
