@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/crazydevhero/crazydevhero/main/gifs/Hi.gif" width="500px" align="center"><br/>
+<img src="https://raw.githubusercontent.com/salahawk/salahawk/main/gifs/Hi.gif" width="500px" align="center"><br/>
 <h1>Welcome to onboard my github! <br/>
 I'm a Blockchain & Full-stack Developer</h1>
 
@@ -6,16 +6,16 @@ I'm a Blockchain & Full-stack Developer</h1>
 Nice to meet you! 🤗 <br/>
 I'm very familiar with BlockChain | DApp | Smart Contract | NFT marketplace | Web3.js | Ethers.js | MERN | MEAN As Full-stack developer
 
-Plz contact me at @crazydevhero anywhere...
+Plz contact me at @salahawk anywhere...
 </p>
 
 <div>
 
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/crazydevhero)
-[![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=Telegram&logoColor=white)](https://t.me/crazydevhero)
-[![Linkedin](https://img.shields.io/badge/Portfolio-gray?style=flat&logo=appveyor)](https://crazy-dev-hero.netlify.app/)
-[![Discord](https://img.shields.io/badge/-Discord-white?style=flat&logo=Discord)](https://discord.com/users/CrazyDevHero#7119/)
+[![Linkedin](https://img.shields.io/badge/Portfolio-gray?style=flat&logo=appveyor)](https://salahawk.netlify.app/)
+[![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=Telegram&logoColor=white)](https://t.me/salahawk)
+[![Discord](https://img.shields.io/badge/-Discord-white?style=flat&logo=Discord)](https://discord.com/users/salahawk#7119/)
 [![Skype](https://img.shields.io/badge/-Skype-grey?style=flat&logo=Skype&logoColor=white)](https://join.skype.com/invite/mxO32NNjcXNw)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/salahawk)
 </div>
 
 <hr />
@@ -57,9 +57,9 @@ Plz contact me at @crazydevhero anywhere...
 
 <h1 align="center">My Github Status </h1>
 <p align="center">
-  <img alt="status" src="https://github-readme-stats.vercel.app/api?username=crazydevhero&show_icons=true&&custom_title=Current%20Status&title_color=FF0FFF&text_color=76d285&icon_color=cff389&theme=dark&count_private=true&hide=prs" align="center" />
+  <img alt="status" src="https://github-readme-stats.vercel.app/api?username=salahawk&show_icons=true&&custom_title=Current%20Status&title_color=FF0FFF&text_color=76d285&icon_color=cff389&theme=dark&count_private=true&hide=prs" align="center" />
 </p>
 
 <h1 align="center"></h1>
- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=crazydevhero&theme=dracula" /> 
+ <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=salahawk&theme=dracula" /> 
 <h1 align="center"></h1>
