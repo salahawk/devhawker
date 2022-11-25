@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/salahawk/salahawk/main/gifs/Hi.gif" width="500px" align="center"><br/>
 <h1>Welcome to onboard my github! <br/>
 I'm a Blockchain & Full-stack Developer</h1>
 
